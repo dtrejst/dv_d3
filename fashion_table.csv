@@ -1,0 +1,11 @@
+value_chain_category_individual,current_percentage_of_emission,value_chain_category_groups,possible_reduction_co2,labels_reduction
+Transport,3,Brand Operations,2,sub transport and improved packaging
+Retail,3,Brand Operations,,decarbonized materiual prod
+Product Use,3,Usage & End-of-use,,
+End-of-use,20,Usage & End-of-use,,
+Material Production,38,Upstream Production,,
+Yarn Preparation,8,Upstream Production,,
+Fabric Preparation,6,Upstream Production,,
+Wet Processes,15,Upstream Production,,
+Cut Make Trim,4,Upstream Production,,
+,100,,,
