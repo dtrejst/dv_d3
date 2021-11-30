@@ -1,0 +1,453 @@
+[
+ {
+   "category_group": "Brand Operations",
+   "category_sub": "Transport",
+   "category_sub_percent": 0.03,
+   "reduction_measures":[
+ "Substainable Transport" , "Improved packaging" ],
+   "reduction_measures_percentage_of_global_total_rounded": 0.02,
+   "Reduction measures": "Decarbonised material production",
+   "percentage of total savings": 0.12
+ },
+ {
+   "category_group": "Brand Operations",
+   "category_sub": "Retail",
+   "category_sub_percent": 0.03,
+   "reduction_measures": ["Minimised returns", "Reduced overproduction", "Increased product lifespan"],
+   "reduction_measures_percentage_of_global_total_rounded": 0.02,
+   "Reduction measures": "Improvement material mix",
+   "percentage of total savings": 0.02
+ },
+ {
+   "category_group": "Usage & End-of-use",
+   "category_sub": "Product Use",
+   "category_sub_percent": 0.2,
+   "reduction_measures": "Reduce washing and drying",
+   "reduction_measures_percentage_of_global_total_rounded": 0.1,
+   "Reduction measures": "Decarbonised material processing",
+   "percentage of total savings": 0.42
+ },
+ {
+   "category_group": "Usage & End-of-use",
+   "category_sub": "End-of-use",
+   "category_sub_percent": 0.03,
+   "reduction_measures": "Increased recycling and collection",
+   "reduction_measures_percentage_of_global_total_rounded": 0.02,
+   "Reduction measures": "Minimised production & manufacturing wastage",
+   "percentage of total savings": 0.01
+ },
+ {
+   "category_group": "Upstream Production",
+   "category_sub": "Material Production",
+   "category_sub_percent": 0.38,
+   "reduction_measures": "Decarbonised material production",
+   "reduction_measures_percentage_of_global_total_rounded": 0.03,
+   "Reduction measures": "Decarbonised garment manufacturing",
+   "percentage of total savings": 0.05
+ },
+ {
+   "category_group": "Upstream Production",
+   "category_sub": "Yarn Preparation",
+   "category_sub_percent": 0.08,
+   "reduction_measures": "Improvement material mix",
+   "reduction_measures_percentage_of_global_total_rounded": 0.07,
+   "Reduction measures": "Substainable Transport",
+   "percentage of total savings": 0.02
+ },
+ {
+   "category_group": "Upstream Production",
+   "category_sub": "Fabric Preparation",
+   "category_sub_percent": 0.06,
+   "reduction_measures": "Decarbonised material processing",
+   "reduction_measures_percentage_of_global_total_rounded": 0.2,
+   "Reduction measures": "Improved packaging",
+   "percentage of total savings": 0
+ },
+ {
+   "category_group": "Upstream Production",
+   "category_sub": "Wet Processes",
+   "category_sub_percent": 0.15,
+   "reduction_measures": "Minimised production & manufacturing wastage",
+   "reduction_measures_percentage_of_global_total_rounded": 0.14,
+   "Reduction measures": "Decarbonised retail operations",
+   "percentage of total savings": 0.03
+ },
+ {
+   "category_group": "Upstream Production",
+   "category_sub": "Cut Make Trim",
+   "category_sub_percent": 0.04,
+   "reduction_measures": "Decarbonised garment manufacturing",
+   "reduction_measures_percentage_of_global_total_rounded": 0.01,
+   "Reduction measures": "Minimised returns",
+   "percentage of total savings": 0.01
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": 1,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "Reduced overproduction",
+   "percentage of total savings": 0.09
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "Increased use of circular business models",
+   "percentage of total savings": 0.09
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "Reduce washing and drying",
+   "percentage of total savings": 0.11
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "Increased recycling and collection",
+   "percentage of total savings": 0.01
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": 0.98
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ },
+ {
+   "category_group": "",
+   "category_sub": "",
+   "category_sub_percent": null,
+   "reduction_measures": "If we as consumers put more effort in our purchase behaviour, we can contribute to 20% of emissions reduction ",
+   "reduction_measures_percentage_of_global_total_rounded": null,
+   "Reduction measures": "",
+   "percentage of total savings": null
+ }
+]
